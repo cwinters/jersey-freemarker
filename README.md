@@ -9,7 +9,7 @@ Home: [GitHub] [3]
 
 Contact: [Chris Winters] [4]
 
-  [1]: http://www.freemarker.org/                       Freemarker
-  [2]: http://jersey.dev.java.net/                      Jersey
-  [2]: http://github.com/cwinters/jersey-freemarker/   GitHub
+  [1]: http://www.freemarker.org/                      Freemarker
+  [2]: http://jersey.dev.java.net/                     Jersey
+  [3]: http://github.com/cwinters/jersey-freemarker/   GitHub
   [4]: mailto:chris@cwinters.com                       "Chris Winters"
